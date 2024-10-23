@@ -1,0 +1,289 @@
+@media (max-width: 768px) {
+    .center {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .header {
+        padding-top: 32px;
+        border-bottom:none;
+        &__input {
+            display: none;
+        }
+
+        &__logotop {
+            width: 99px;
+        }
+    }
+
+    .menutop {
+        display: none;
+    }
+
+    .menu-mobile {
+        display: flex;
+        align-items: center;
+        gap: 32px;
+    }
+
+
+    .section1 {
+        &__title {
+        font-size: 48px;
+        line-height: 59px;
+        text-align: center;
+        }
+        
+        &__para {
+            font-size: 16px;
+            line-height: 32px;
+            text-align: center;
+        }
+    
+        &__movetocat {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 14px;
+        }
+    }
+
+    .section2 {
+        &__title {
+            font-size: 24px;
+            line-height: 29px;
+        }
+    }
+
+    .for {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
+        
+        &__item {
+            grid-column: 1 / -1;
+            height: 375px;
+            font-size: 28px;
+            line-height: 34px;
+
+            &__big {
+                height:244px ;
+            }
+        }
+    }
+
+    .footer {
+            display: block;
+            padding-bottom: 32px;
+            
+            &__content {
+                display:flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                width: 100%;
+                gap: 34px;
+                
+                
+            }
+            &__info {
+                display: flex;
+                
+            }
+
+            &__form {
+                padding-top: 70px;
+                display: flex;
+                justify-content: space-between;
+                flex-direction: column;
+                gap: 8px;
+            }
+
+        }
+   
+.sectioncat__title {
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  
+.heading-big {
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.for__item {
+    font-size: 28px;
+   }
+   
+.section2__title {
+    font-size: 24px;
+   }
+   
+.section2__title-offer{
+    font-size: 24px;
+    line-height: 29px;
+   }
+   
+.product__title {
+    font-size: 18px;
+   }
+   
+.product__para {
+    font-size: 14px;
+   }
+   
+.product__price1 {
+    font-size: 18px;
+   }
+   
+.product__price2 {
+    font-size: 18px;
+   }
+
+ .product {
+    width: 100%;
+    img {
+        width: 100%;
+    }
+ }
+   
+.section3__title-1 {
+    font-size: 24px;
+   }
+   
+.heading-big {
+    font-size: 48px;
+   }
+
+.cart__item-name {
+    font-size: 18px;
+   }
+
+.cart__item-desc {
+    font-size: 12px;
+   }
+
+.cart__item-price {
+    font-size: 12px;
+   }
+
+.cart__link-box {
+    font-size: 12px;
+   }
+
+.specoffer__title-offer {
+    font-size: 24px;
+    line-height: 29px;
+   }
+
+.cart {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    align-items: flex-start;
+    img { display: none;}
+   }
+
+   .footer__input {
+    width: 260px;
+   }
+
+.selectform {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.cart__name-box {
+    display: none;
+}
+
+.cart__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.cart__form {
+    margin: auto;
+}
+
+.buttons {
+    display: flex;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    gap: 14px;
+    
+    &__clearcart {
+        border: 1px solid #000000;
+        border-radius: 20px;
+        width: 100%;
+        font-size: 12px;
+        line-height: 15px;
+        color: black;
+        background-color: transparent;
+        font-family: Montserrat;
+        text-align: center;
+        width: 166px;
+        height: 37px;
+        }
+
+    &__proceedbuy {
+        border: 1px solid #000000;
+        border-radius: 20px;
+        width: 100%;
+        font-size: 12px;
+        line-height: 15px;
+        color: black;
+        background-color: transparent;
+        font-family: Montserrat;
+        text-align: center;
+        width: 163px;
+        height: 37px;
+        }
+}
+
+
+
+.filtering-form {
+    position: absolute;
+    width: 286px;
+    right: -195px;
+    top: 90px;
+    
+
+}
+
+.selectform {
+    position: relative;
+
+}
+
+.filtering-form__content__wrapper {
+    flex-wrap: nowrap;
+    
+}
+
+.filtering-form__button {
+
+}
+
+
+
+
+
+}
+
+
+
+
+
