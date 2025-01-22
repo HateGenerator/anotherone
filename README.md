@@ -50,13 +50,15 @@
 На странице каталога, через фильтрацию сделано модальное окно, с помощью Flexbox.  
 Страница корзины, реализована с помощью display: flex.  
 
-![chrome_ZAhPQlxLJt](https://github.com/user-attachments/assets/ca7f1e26-4f77-40de-9dce-6a2fe3cc3d4a)
-![wJ00Yy9tlX](https://github.com/user-attachments/assets/22724b75-8b07-4134-af0b-2208ebc8c45c)
-![chrome_wtFQZcqTlF](https://github.com/user-attachments/assets/d8514c0b-4f7a-481a-9d22-8608d201524a)
-![chrome_yovoPbqO6j](https://github.com/user-attachments/assets/990c15ce-02f9-4f50-83b7-2d195aa7b4e9)
-![chrome_mFIfOK1YbX](https://github.com/user-attachments/assets/6617c529-4506-474a-b8c9-7e1a9ec9f13c)
-![chrome_L29EEgN6MA](https://github.com/user-attachments/assets/b70087a0-d09a-4968-89e6-116f0b983b90)
-![i5gMMcj8aG](https://github.com/user-attachments/assets/5c2f5080-6378-4c50-94d0-fe8e073aa023)
-![chrome_dMTitZfQaw](https://github.com/user-attachments/assets/dfec99c4-ff50-4ea6-8a6d-0d9d9cdfbacc)
+![wJ00Yy9tlX](https://github.com/user-attachments/assets/41a5a241-9fd7-42fe-ac97-a86824035b15)
+![chrome_ZAhPQlxLJt](https://github.com/user-attachments/assets/cdbc6e5f-7dba-449c-93f8-cbcbd2c6eab5)
+![chrome_wtFQZcqTlF](https://github.com/user-attachments/assets/1a1d9f71-842c-4f79-bcaf-675f9b27a24f)
+
+![chrome_yovoPbqO6j](https://github.com/user-attachments/assets/26c8f733-fe50-45df-9989-6100e432499a)
+![chrome_mFIfOK1YbX](https://github.com/user-attachments/assets/5a47286e-a2aa-4c4f-87df-334b52882b50)
+![chrome_L29EEgN6MA](https://github.com/user-attachments/assets/9ddfa6e0-7341-4ae3-9800-99d527c0ec2e)
+
+![i5gMMcj8aG](https://github.com/user-attachments/assets/8e54353f-cc1d-4a6a-b226-fa6985560dff)
+![chrome_dMTitZfQaw](https://github.com/user-attachments/assets/197af339-4224-4ef4-baa9-88f88fd4b6f3)
 
 
