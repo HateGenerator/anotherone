@@ -489,7 +489,7 @@ ul {
 }
 
 .footer__input {
-    background: $color-text; /* Если переносить в &__input, то background краснеет и выдаёт ошибку*/
+    background: $color-text; 
     border: 1px solid #C4C4C4;
     box-sizing: border-box;
     border-radius: 20px;
